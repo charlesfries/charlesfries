@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-![macOS](https://i.imgur.com/4TJkYmH.jpg)
+```
+ ____     __                       ___                    
+/\  _`\  /\ \                     /\_ \                   
+\ \ \/\_\\ \ \___      __     _ __\//\ \      __    ____  
+ \ \ \/_/_\ \  _ `\  /'__`\  /\`'__\\ \ \   /'__`\ /',__\ 
+  \ \ \L\ \\ \ \ \ \/\ \L\.\_\ \ \/  \_\ \_/\  __//\__, `\
+   \ \____/ \ \_\ \_\ \__/.\_\\ \_\  /\____\ \____\/\____/
+    \/___/   \/_/\/_/\/__/\/_/ \/_/  \/____/\/____/\/___/ 
+```
+
+<!--![macOS](https://i.imgur.com/4TJkYmH.jpg)-->
 
 <!--
 **charlesfries/charlesfries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
