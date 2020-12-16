@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 ```
  ____     __                       ___                    
 /\  _`\  /\ \                     /\_ \                   
@@ -10,7 +10,7 @@
     \/___/   \/_/\/_/\/__/\/_/ \/_/  \/____/\/____/\/___/ 
 ```
 
-<!--![macOS](https://i.imgur.com/4TJkYmH.jpg)-->
+![macOS](https://i.imgur.com/4TJkYmH.jpg)-->
 
 <!--
 **charlesfries/charlesfries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
