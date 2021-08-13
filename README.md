@@ -13,12 +13,17 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-30C8C9?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0066B8?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-80BA63?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-301A38?style=flat-square&logo=sentry&logoColor=white" />
   <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-5468FF?style=flat-square&logo=algolia&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 <!--
