@@ -18,6 +18,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0066B8?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-80BA63?style=flat-square&logo=neovim&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1890E6?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
