@@ -25,8 +25,8 @@
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-301A38?style=flat-square&logo=sentry&logoColor=white" />
   <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-5468FF?style=flat-square&logo=algolia&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-645CFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
