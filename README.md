@@ -23,6 +23,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-301A38?style=flat-square&logo=sentry&logoColor=white" />
+  <img alt="Percy" src="https://img.shields.io/badge/-Percy-B766BF?style=flat-square&logo=percy&logoColor=white" />
   <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-5468FF?style=flat-square&logo=algolia&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-645CFF?style=flat-square&logo=stripe&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white" />
